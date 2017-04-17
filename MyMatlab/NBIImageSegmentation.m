@@ -1,8 +1,8 @@
-function output = myFun(input)
-%myFun - Description
+function output = doSegmentation(FilePath)
+% doSegmentation - 执行分割
 %
-% Syntax: output = myFun(input)
+% Syntax: output = doSegmentation(FilePath);//FilePath为图片路径
 %
-% Long description
+% 执行图像分割的主程序
     
 end
