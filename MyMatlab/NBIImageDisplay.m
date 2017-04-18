@@ -3,5 +3,7 @@ function output = doDisplay(FilePath)
     %
     % Syntax: output = doDisplay(FilePath);//FilePath为图片路径
     %
-    % 显示图像测试程序
+    % 测试图像的显示
+    imdata=imread(FilePath);
+    imshow(imdata);
 end
