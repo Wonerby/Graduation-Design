@@ -1,7 +1,7 @@
-function output = myFun(input)
-    % doSegmentation - 执行分割
+function output = doDisplay(FilePath)
+    % doSegmentation - 显示图片
     %
-    % Syntax: output = doSegmentation(FilePath);//FilePath为图片路径
+    % Syntax: output = doDisplay(FilePath);//FilePath为图片路径
     %
-    % 执行图像分割的主程序
+    % 显示图像测试程序
 end
