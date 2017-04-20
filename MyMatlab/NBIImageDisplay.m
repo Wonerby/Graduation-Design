@@ -5,7 +5,7 @@ function output = doDisplay(FilePath)
     %
     % 测试图像的显示
     %
-    FilePath='‪C:\Users\Wonerby\Pictures\[三輪士郎]\4a547606df60402b030881c6.jpg';
+    FilePath='C:\Users\Wonerby\Desktop\GdndbTo.jpg';
     imdata=imread(FilePath);
     imshow(imdata);
 end
